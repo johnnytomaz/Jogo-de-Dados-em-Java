@@ -1,11 +1,11 @@
-### Jogo Rolling Java
+## Jogo Rolling Java
 
-## As regras do jogo são o seguinte:
+### As regras do jogo são o seguinte:
 
-# - Se você o dado cair no 6, o jogo acaba.
-# - Se o dado cair no 4, nada acontece, não soma pontuação.
-# - Se cair em qualquer outro número, soma-se 1 ponto.
-# - Se você finalizar o jogo com 3 pontos ou mais, vence.
+#### - Se você o dado cair no 6, o jogo acaba.
+#### - Se o dado cair no 4, nada acontece, não soma pontuação.
+#### - Se cair em qualquer outro número, soma-se 1 ponto.
+#### - Se você finalizar o jogo com 3 pontos ou mais, vence.
 
 Dentro do código, foi utiilizado While Loops, if-else e um método chamado rollDice, que faz o dado rolar.
 
