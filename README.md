@@ -1,6 +1,6 @@
-## Jogo Rolling Java
+# Jogo Rolling Java
 
-### As regras do jogo são o seguinte:
+## As regras do jogo são o seguinte:
 
 #### - Se você o dado cair no 6, o jogo acaba.
 #### - Se o dado cair no 4, nada acontece, não soma pontuação.
