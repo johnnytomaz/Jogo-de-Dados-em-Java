@@ -7,6 +7,7 @@
 #### - Se cair em qualquer outro número, soma-se 1 ponto.
 #### - Se você finalizar o jogo com 3 pontos ou mais, vence.
 
+
 Dentro do código, foi utiilizado While Loops, if-else e um método chamado rollDice, que faz o dado rolar.
 
 Imagem do jogo:
